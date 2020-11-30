@@ -1,0 +1,2 @@
+C:\Users\jhmla\source\repos\FLT8a\FLT8a\obj\Debug\FLT8a.csprojAssemblyReference.cache
+C:\Users\jhmla\source\repos\FLT8a\FLT8a\obj\Debug\FLT8a.csproj.CoreCompileInputs.cache
